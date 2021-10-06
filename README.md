@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src= "https://github.com/VindaShinde/VindaShinde/blob/main/header.png" width="25px">
 
 I am in software industry for long now and starting my new journey in the field of Data Science...
 
